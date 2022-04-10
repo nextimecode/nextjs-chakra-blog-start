@@ -31,6 +31,8 @@ Os nossos projetos são desenvolvidos com:
 - [Clean Code with JS](https://medium.com/trainingcenter/c%C3%B3digo-limpo-vers%C3%A3o-javascript-80adecafdbec)
 - [Tutorial do git fluxo da Nextime](https://drive.google.com/file/d/1a44AWwM_JGLa0Z5-ECCT2sw4qisU9e_F/view?usp=sharing)
 - [Tutorial do fluxo de review da Nextime](https://drive.google.com/file/d/1HG_m-s8U1JZ-Wp_8Gk9t1lb2YtcHme4R/view?usp=sharing)
+- [Tutorial para criação do blog com prismic](https://www.youtube.com/watch?v=pCGD_Sz2Ty0)
+- [Link para o projeto base de criação do blog com prismic](https://github.com/hesselbom/my-blog)
 
 
 ## Conventional commits
@@ -220,3 +222,5 @@ Se você chegou até aqui é porque você fez seu primeiro deploy.
 🎉 Parabéns.
 
 Desenvolvido por [NeXTIME](https://github.com/nextimecode)
+
+[FIGMA](https://www.figma.com/file/8KoWK4zpkH5b0fqrKq69rr/Site-NeXTIME?node-id=1%3A10)
