@@ -1,0 +1,21 @@
+{
+  "id": "my-custom-type",
+  "label": "My custom type",
+  "repeatable": true,
+  "status": true,
+  "json": {
+    "Main": {
+      "slices": {
+        "type": "Slices",
+        "fieldset": "Slice Zone",
+        "config": {
+          "choices": {
+            "text_image_right": {
+              "type": "SharedSlice"
+            }
+          }
+        }
+      }
+    }
+  }
+}
