@@ -8,7 +8,7 @@ import Prismic from '@prismicio/client'
 const ONE_DAY_IN_SECONDS = 86400
 
 export async function getStaticProps(context) {
-  const client = Prismic.client('https://nextime-blog-template.prismic.io/api/v2', {})
+  const client = Prismic.client(process.env.PRISMIC_URL, {})
   const data = await client.getByUID('blog_post', context.params.slug)
   console.log('DATA', data)
 
