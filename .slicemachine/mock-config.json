@@ -1,6 +1,7 @@
 {
   "_cts": {
-    "my-custom-type": {}
+    "my-custom-type": {},
+    "blog-post": {}
   },
   "slices": {
     "TextImageRight": {}
